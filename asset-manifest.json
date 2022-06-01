@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/us_elections/static/css/main.6ce6e60a.css",
+    "main.js": "/us_elections/static/js/main.6fd5c9cd.js",
+    "index.html": "/us_elections/index.html",
+    "main.6ce6e60a.css.map": "/us_elections/static/css/main.6ce6e60a.css.map",
+    "main.6fd5c9cd.js.map": "/us_elections/static/js/main.6fd5c9cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce6e60a.css",
+    "static/js/main.6fd5c9cd.js"
+  ]
+}
